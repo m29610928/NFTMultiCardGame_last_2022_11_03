@@ -1,0 +1,185 @@
+{
+    "cards":[ 
+{
+ "no" : 1,
+ "type" : "Commoncard",
+ "name" : "Knight",
+ "explain" : "Knight",
+ "cost" : 1,
+ "health" : 1,
+ "attack" : 2
+},
+{
+ "no" : 2,
+ "type" : "Commoncard",
+ "name" : "Paladin",
+ "explain" : "Paladin",
+ "cost" : 1,
+ "health" : 2,
+ "attack" : 1
+},
+{
+ "no" : 3,
+ "type" : "Commoncard",
+ "name" : "Shadow",
+ "explain" : "Shadow",
+ "cost" : 2,
+ "health" : 2,
+ "attack" : 3
+},
+{
+ "no" : 4,
+ "type" : "Commoncard",
+ "name" : "Assassin",
+ "explain" : "Assassin",
+ "cost" : 2,
+ "health" : 3,
+ "attack" : 2
+},
+{
+ "no" : 5,
+ "type" : "Commoncard",
+ "name" : "Butcher",
+ "explain" : "Butcher",
+ "cost" : 3,
+ "health" : 3,
+ "attack" : 4
+},
+{
+ "no" : 6,
+ "type" : "Commoncard",
+ "name" : "Berserker",
+ "explain" : "Berserker",
+ "cost" : 3,
+ "health" : 4,
+ "attack" : 3
+},
+{
+ "no" : 7,
+ "type" : "Commoncard",
+ "name" : "Demon",
+ "explain" : "Demon",
+ "cost" : 4,
+ "health" : 4,
+ "attack" : 5
+},
+{
+ "no" : 8,
+ "type" : "Commoncard",
+ "name" : "Magician",
+ "explain" : "Magician",
+ "cost" : 4,
+ "health" : 3,
+ "attack" : 6
+},
+{
+ "no" : 9,
+ "type" : "Commoncard",
+ "name" : "Warrior",
+ "explain" : "Warrior",
+ "cost" : 5,
+ "health" : 4,
+ "attack" : 6
+},
+{
+ "no" : 10,
+ "type" : "Commoncard",
+ "name" : "Dancer",
+ "explain" : "Dancer",
+ "cost" : 5,
+ "health" : 3,
+ "attack" : 7
+},
+{
+ "no" : 11,
+ "type" : "Commoncard",
+ "name" : "GhostCorps",
+ "explain" : "GhostCorps",
+ "cost" : 6,
+ "health" : 5,
+ "attack" : 7
+},
+{
+ "no" : 12,
+ "type" : "Commoncard",
+ "name" : "Keeper",
+ "explain" : "Keeper",
+ "cost" : 6,
+ "health" : 4,
+ "attack" : 8
+},
+{
+ "no" : 13,
+ "type" : "Commoncard",
+ "name" : "Crow",
+ "explain" : "Crow",
+ "cost" : 7,
+ "health" : 7,
+ "attack" : 7
+},
+{
+ "no" : 14,
+ "type" : "Commoncard",
+ "name" : "Valkyrie",
+ "explain" : "Valkyrie",
+ "cost" : 7,
+ "health" : 6,
+ "attack" : 8
+},
+{
+ "no" : 15,
+ "type" : "Commoncard",
+ "name" : "Thief",
+ "explain" : "Thief",
+ "cost" : 8,
+ "health" : 8,
+ "attack" : 8
+},
+{
+ "no" : 16,
+ "type" : "Commoncard",
+ "name" : "Samurai",
+ "explain" : "Samurai",
+ "cost" : 8,
+ "health" : 7,
+ "attack" : 9
+},
+{
+ "no" : 17,
+ "type" : "Commoncard",
+ "name" : "Overlord",
+ "explain" : "Overlord",
+ "cost" : 9,
+ "health" : 9,
+ "attack" : 9
+},
+{
+ "no" : 18,
+ "type" : "Commoncard",
+ "name" : "Witch",
+ "explain" : "Witch",
+ "cost" : 9,
+ "health" : 10,
+ "attack" : 8
+},
+{
+ "no" : 19,
+ "type" : "Commoncard",
+ "name" : "Immortal",
+ "explain" : "Immortal",
+ "cost" : 10,
+ "health" : 10,
+ "attack" : 10
+},
+{
+ "no" : 20,
+ "type" : "Commoncard",
+ "name" : "Mechanic",
+ "explain" : "Mechanic",
+ "cost" : 10,
+ "health" : 8,
+ "attack" : 12
+}
+   
+]
+} 
